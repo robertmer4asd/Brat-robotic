@@ -1,1 +1,7 @@
-
+Modul pt senzor de umiditate a solului -> ia umiditatea solului
+Arduino UNO -> microcontroller
+Modul de releu -> controleaza pompa
+Fire -> realizeaza conexiuni intre componente
+Mini breadboard -> realizeaza conexiuni intre componente
+Acumulatotri -> alimenteaza cirtcuitul
+Panou solar -> incarca acumulatorii
